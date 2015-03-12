@@ -1,4 +1,4 @@
-# JS-SingleModule
+# JS-TWO-Modules
 
 An example of javascript modules
 
